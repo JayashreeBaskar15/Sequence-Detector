@@ -141,6 +141,7 @@ module tb_moore_sequence_detector;
         #20 $finish;
     end
 Output:
+![Screenshot 2024-11-13 094615](https://github.com/user-attachments/assets/94921785-5bfb-4e21-87ce-bf0f01ff0fd7)
 
 
 Verilog Code for Sequence Detector Using Mealy FSM
